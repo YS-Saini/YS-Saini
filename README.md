@@ -1,18 +1,57 @@
-<h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ys-saini&label=Profile%20views&color=0e75b6&style=flat" alt="ys-saini" /> </p>
+<!-- 👋 Hi, I’m @ys-saini -->
+<!-- 🎯 Passionate about Smart Tech, Embedded Systems, and AI -->
+<!-- 🛠️ Building award-winning IoT solutions for real-world impact -->
+<!-- 📫 Reach me at: yuvrajsinghthapar@gmail.com | LinkedIn below -->
 
-- 📫 How to reach me **yssaini2004@gmail.com**
+# Hi 👋, I'm Yuvraj Singh
 
-- ⚡ Fun fact **Always Ready!**
+## 🚀 About Me
+- 🏆 **Winner - Smart India Hackathon 2023 & 2024** for IoT-based safety solutions  
+- 💰 **Received ₹7 Lakh Grant** from MeitY for underground mining safety project  
+- 🛡️ Recognized at **SnT PRISM by Ministry of Mines** (India)  
+- 🔧 4+ years of hands-on experience with **IoT**, **embedded systems**, and **real-time tracking**  
+- 🧠 Exploring **GenAI**, **Agentic AI**, and **BLE mesh-based infrastructure**  
+- 🔬 Passionate about scalable solutions in **computer vision** and **smart environments**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/yuvraj____.saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuvraj____.saini" height="30" width="40" /></a>
+---
+
+## 📬 Connect With Me
+
+<a href="mailto:yuvrajsinghthapar@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://www.linkedin.com/in/yuvraj-singh-iot" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/ys.iotr" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+---
+
+## 🧰 Tech Arsenal
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,ts,flutter,react,arduino,raspberrypi,docker,firebase,aws,opencv,tensorflow,git,linux,vscode,vercel,mysql,sqlite&perline=20)](#)
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YS-Saini&show_icons=true&theme=github_dark&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YS-Saini&layout=compact&theme=chartreuse-dark&hide_border=false"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ys-saini&show_icons=true&locale=en&layout=compact" alt="ys-saini" /></p>
+## 🏅 Badges & Certifications
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ys-saini&" alt="ys-saini" /></p>
+<div align="left">
+  <img src="https://images.credly.com/images/81fad72d-a948-409f-a979-0c1bf67b39ab/image.png" width="100" alt="IoT Badge">
+  <img src="https://images.credly.com/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="100" alt="Cybersecurity Badge">
+  <img src="https://leetcode.com/static/images/badges/dcc-2025-4.png" width="100" alt="LeetCode DCC Badge">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="100" alt="LeetCode 50 Days Badge">
+</div>
+
