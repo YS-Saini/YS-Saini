@@ -33,6 +33,7 @@
 <a href="https://leetcode.com/Yuvraj_S_Saini/" target="_blank">
   <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
+
 ---
 
 ## 🧰 My Tool Kit
@@ -44,7 +45,6 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YS-Saini&show_icons=true&theme=github_dark&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YS-Saini&layout=compact&theme=chartreuse-dark&hide_border=false"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YS-Saini&theme=dark&hide_border=false" />
 </p>
