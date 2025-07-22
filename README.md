@@ -17,21 +17,21 @@
 
 ## 📬 Connect With Me
 
-<a href="mailto:yuvrajsinghthapar@gmail.com" target="_blank">
+<a href="mailto:yssaini2004@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<a href="https://www.linkedin.com/in/yuvraj-singh-iot" target="_blank">
+<a href="https://www.linkedin.com/in/yuvraj-singh-3aa067263/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://www.instagram.com/ys.iotr" target="_blank">
+<a href="https://www.instagram.com/yuvraj____.saini" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 ---
 
-## 🧰 Tech Arsenal
+## 🧰 My Tool Kit
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,js,ts,flutter,react,arduino,raspberrypi,docker,firebase,aws,opencv,tensorflow,git,linux,vscode,vercel,mysql,sqlite&perline=20)](#)
 
