@@ -3,7 +3,7 @@
 <!-- 🛠️ Building award-winning IoT solutions for real-world impact -->
 <!-- 📫 Reach me at: yuvrajsinghthapar@gmail.com | LinkedIn below -->
 
-# Hi 👋, I'm Yuvraj Singh
+# Hi 👋, I'm Yuvraj
 
 ## 🚀 About Me
 - 🖥️ Product Management intern (Summer 202) @ **Ikarus 3D - Mohali**
@@ -46,7 +46,7 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YS-Saini&layout=compact&theme=chartreuse-dark&hide_border=false"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YS-Saini&theme=dark&hide_border=false" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YS-Saini&theme=dark&hide_border=false" />
 </p>
 
 ---
