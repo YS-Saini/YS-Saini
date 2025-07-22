@@ -45,8 +45,7 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YS-Saini&layout=compact&theme=chartreuse-dark&hide_border=false"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YS-Saini&theme=dark&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YS-Saini&layout=compact&theme=chartreuse-dark&hide_border=false"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YS-Saini&theme=dark&hide_border=false" />
 </p>
 
 ---
